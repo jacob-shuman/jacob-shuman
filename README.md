@@ -1,8 +1,3 @@
-### Hi there 👋
-
-[![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacob-shuman&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <!--
 **jacob-shuman/jacob-shuman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://jacob-shuman.ca/?ref=github-banner"><img alt="GitHub Banner for Jacob Shuman" src="https://github.com/jacob-shuman/jacob-shuman/raw/main/banner.svg"/></a>
