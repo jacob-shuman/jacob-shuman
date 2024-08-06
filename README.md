@@ -12,7 +12,7 @@
 > - :globe_with_meridians: Web development is my area of expertise :muscle:.
 > - :briefcase: Currently a Technical Manager @ the [Indigenous Friends Association](https://indigenousfriends.org)
 
-#### Languages/Libraries
+### Languages/Libraries
 
 ![html badge](https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5)
 ![css badge](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3&logoColor=489AE0)
@@ -23,13 +23,13 @@
 ![playwright badge](https://img.shields.io/badge/playwright-black?style=for-the-badge&logo=jest&logoColor=67B859)
 ![storybook badge](https://img.shields.io/badge/storybook-black?style=for-the-badge&logo=storybook)
 
-#### Runtimes
+### Runtimes
 
 ![node badge](https://img.shields.io/badge/node-black?style=for-the-badge&logo=node.js)
 ![deno badge](https://img.shields.io/badge/deno-black?style=for-the-badge&logo=deno)
 ![cloudflare workers badge](https://img.shields.io/badge/cloudflare_workers-black?style=for-the-badge&logo=cloudflareworkers)
 
-#### Frameworks
+### Frameworks
 
 ![angular badge](https://img.shields.io/badge/angular-black?style=for-the-badge&logo=angular&logoColor=d63b9e)
 ![react badge](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
@@ -37,9 +37,10 @@
 ![ionic badge](https://img.shields.io/badge/ionic-black?style=for-the-badge&logo=ionic)
 ![astro badge](https://img.shields.io/badge/astro-black?style=for-the-badge&logo=astro)
 
-#### Tools
+### Tools
 
 ![docker badge](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)
+![figma badge](https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma)
 
 ## Get in touch
 
