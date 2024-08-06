@@ -1,9 +1,7 @@
-<!-- # Hey I'm Jacob :wave: -->
-
-![title](./title.svg)
-
-<!-- ![left header](./left-header.svg) -->
-<!-- ![center header](./center-header.svg) -->
+<p>
+  <img src="./light-header.svg#gh-light-mode-only" width="30%"/>
+  <img src="./dark-header.svg#gh-dark-mode-only" width="30%"/>
+</p>
 
 > - I'm a **frontend developer** based in Toronto Ontario :canada:. I love FOSS software and creating open source projects.
 > - I have :calendar: 5+ years of professional experience.
