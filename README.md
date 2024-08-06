@@ -1,16 +1,32 @@
-<!--
-**jacob-shuman/jacob-shuman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- # Hey I'm Jacob :wave: -->
 
-Here are some ideas to get you started:
+![title](./title.svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ![left header](./left-header.svg) -->
+<!-- ![center header](./center-header.svg) -->
 
-<a href="https://jacob-shuman.ca/?ref=github-banner"><img alt="GitHub Banner for Jacob Shuman" src="https://github.com/jacob-shuman/jacob-shuman/raw/main/banner.svg"/></a>
+> - I'm a **frontend developer** based in Toronto Ontario :canada:. I love FOSS software and creating open source projects.
+> - I have :calendar: 5+ years of professional experience.
+> - :globe_with_meridians: Web development is my area of expertise :muscle:.
+
+## Tech
+
+![html badge](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css badge](https://img.shields.io/badge/css-489ae0?style=for-the-badge&logo=css3)
+![javascript badge](https://img.shields.io/badge/javascript-f1e05a?style=for-the-badge&logo=javascript&logoColor=black)
+![typescript badge](https://img.shields.io/badge/typescript-4273ba?style=for-the-badge&logo=typescript&logoColor=white)
+
+![node badge](https://img.shields.io/badge/node-79b658?style=for-the-badge&logo=node.js&logoColor=white)
+![deno badge](https://img.shields.io/badge/deno-000000?style=for-the-badge&logo=deno&logoColor=white)
+![cloudflare workers badge](https://img.shields.io/badge/cloudflare_workers-F38020?style=for-the-badge&logo=cloudflareworkers&logoColor=white)
+
+![angular badge](https://img.shields.io/badge/angular-0F0F11?style=for-the-badge&logo=angular&logoColor=white)
+![react badge](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![svelte badge](https://img.shields.io/badge/svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![ionic badge](https://img.shields.io/badge/ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
+
+## Get in touch
+
+[![mastodon badge](https://img.shields.io/badge/mastodon-161746?logo=mastodon&style=for-the-badge)](https://mastodon.social/@jacobshuman)
+[![linkedin badge](https://img.shields.io/badge/linkedin-1F4E74?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/jacob-shuman-186993172/)
+[![x badge](https://img.shields.io/badge/twitter-black?logo=x&style=for-the-badge)](https://twitter.com/jacob_shuman7)
