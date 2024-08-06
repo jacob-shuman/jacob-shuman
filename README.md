@@ -6,11 +6,11 @@
 [![portfolio badge](https://img.shields.io/badge/portfolio-3B87FF?style=for-the-badge&logo=amp&logoColor=white)](https://jacobshuman.ca)
 [![resume badge](https://img.shields.io/badge/resume-FC4C02?style=for-the-badge&logo=googledocs&logoColor=white)](https://jacobshuman.ca/resume.pdf)
 
-> - I'm a **frontend developer** based in Scarborough Ontario :canada:.
-> - I love FOSS software and working on open source projects.
-> - I have :calendar: **5+ years** of professional experience.
-> - :globe_with_meridians: Web development is my area of expertise :muscle:.
-> - :briefcase: Currently a Technical Manager @ the [Indigenous Friends Association](https://indigenousfriends.org)
+> - :canada: I'm a **frontend developer** based in Scarborough Ontario Canada.
+> - :open_book: I love FOSS software and working on open source projects.
+> - :calendar: I have **5+ years** of professional experience.
+> - :globe_with_meridians: Web development is my area of expertise.
+> - :briefcase: Currently a Technical Manager @ the [Indigenous Friends Association](https://indigenousfriends.org).
 
 ### Languages/Libraries
 
