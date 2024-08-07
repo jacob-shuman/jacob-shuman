@@ -1,12 +1,6 @@
-<style>
-    .header {
-        width: clamp(300px, 50%, 400px);
-    }
-</style>
-
 <p>
-  <img class="header" src="./light-header.svg#gh-light-mode-only"/>
-  <img class="header" src="./dark-header.svg#gh-dark-mode-only"/>
+  <img src="./light-header.svg#gh-light-mode-only" width="50%" >
+  <img src="./dark-header.svg#gh-dark-mode-only" width="50%" >
 </p>
 
 [![portfolio badge](https://img.shields.io/badge/portfolio-3B87FF?style=for-the-badge&logo=amp&logoColor=white)](https://jacobshuman.ca)
