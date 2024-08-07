@@ -1,6 +1,6 @@
 <p>
-  <img src="./light-header.svg#gh-light-mode-only" width="50%" >
-  <img src="./dark-header.svg#gh-dark-mode-only" width="50%" >
+  <img src="./light-header.svg#gh-light-mode-only" width="45%" >
+  <img src="./dark-header.svg#gh-dark-mode-only" width="45%" >
 </p>
 
 [![portfolio badge](https://img.shields.io/badge/portfolio-3B87FF?style=for-the-badge&logo=amp&logoColor=white)](https://jacobshuman.ca)
