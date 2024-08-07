@@ -1,6 +1,6 @@
 <p>
-  <img src="./light-header.svg#gh-light-mode-only" width="30%"/>
-  <img src="./dark-header.svg#gh-dark-mode-only" width="30%"/>
+  <img src="./light-header.svg#gh-light-mode-only" width="40%"/>
+  <img src="./dark-header.svg#gh-dark-mode-only" width="40%"/>
 </p>
 
 [![portfolio badge](https://img.shields.io/badge/portfolio-3B87FF?style=for-the-badge&logo=amp&logoColor=white)](https://jacobshuman.ca)
@@ -18,10 +18,12 @@
 ![css badge](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3&logoColor=489AE0)
 ![javascript badge](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
 ![typescript badge](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)
+![tailwind css badge](https://img.shields.io/badge/tailwind_css-black?style=for-the-badge&logo=tailwindcss)
 ![jest badge](https://img.shields.io/badge/jest-black?style=for-the-badge&logo=jest&logoColor=C21325)
 ![cypress badge](https://img.shields.io/badge/cypress-black?style=for-the-badge&logo=cypress)
 ![playwright badge](https://img.shields.io/badge/playwright-black?style=for-the-badge&logo=jest&logoColor=67B859)
 ![storybook badge](https://img.shields.io/badge/storybook-black?style=for-the-badge&logo=storybook)
+![flutter badge](https://img.shields.io/badge/flutter-black?style=for-the-badge&logo=flutter)
 
 ### Runtimes
 
