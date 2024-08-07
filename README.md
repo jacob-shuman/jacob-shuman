@@ -23,7 +23,7 @@
 ![cypress badge](https://img.shields.io/badge/cypress-black?style=for-the-badge&logo=cypress)
 ![playwright badge](https://img.shields.io/badge/playwright-black?style=for-the-badge&logo=jest&logoColor=67B859)
 ![storybook badge](https://img.shields.io/badge/storybook-black?style=for-the-badge&logo=storybook)
-![flutter badge](https://img.shields.io/badge/flutter-black?style=for-the-badge&logo=flutter)
+![flutter badge](https://img.shields.io/badge/flutter-black?style=for-the-badge&logo=flutter&logoColor=02569B)
 
 ### Runtimes
 
