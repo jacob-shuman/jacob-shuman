@@ -14,95 +14,135 @@
 
 ### Languages/Libraries
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/html-202020?style=for-the-badge&logo=html5" />
-  <img alt="html badge" src="https://img.shields.io/badge/html-f0f0f0?style=for-the-badge&logo=html5" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/css-202020?style=for-the-badge&logo=css3&logoColor=489AE0" />
-  <img alt="css badge" src="https://img.shields.io/badge/css-f0f0f0?style=for-the-badge&logo=css3&logoColor=489AE0" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/javascript-202020?style=for-the-badge&logo=javascript" />
-  <img alt="javascript badge" src="https://img.shields.io/badge/javascript-f0f0f0?style=for-the-badge&logo=javascript" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/typescript-202020?style=for-the-badge&logo=typescript" />
-  <img alt="typescript badge" src="https://img.shields.io/badge/typescript-f0f0f0?style=for-the-badge&logo=typescript" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/tailwind_css-202020?style=for-the-badge&logo=tailwindcss" />
-  <img alt="tailwindcss badge" src="https://img.shields.io/badge/tailwind_css-f0f0f0?style=for-the-badge&logo=tailwindcss" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/jest-202020?style=for-the-badge&logo=jest&logoColor=C21325" />
-  <img alt="jest badge" src="https://img.shields.io/badge/jest-f0f0f0?style=for-the-badge&logo=jest&logoColor=C21325" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/cypress-202020?style=for-the-badge&logo=cypress" />
-  <img alt="cypress badge" src="https://img.shields.io/badge/cypress-f0f0f0?style=for-the-badge&logo=cypress" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/playwright-202020?style=for-the-badge&logo=jest&logoColor=67B859" />
-  <img alt="jest badge" src="https://img.shields.io/badge/playwright-f0f0f0?style=for-the-badge&logo=jest&logoColor=67B859" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/storybook-202020?style=for-the-badge&logo=storybook" />
-  <img alt="storybook badge" src="https://img.shields.io/badge/storybook-f0f0f0?style=for-the-badge&logo=storybook" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/flutter-202020?style=for-the-badge&logo=flutter&logoColor=02569B" />
-  <img alt="jest badge" src="https://img.shields.io/badge/flutter-f0f0f0?style=for-the-badge&logo=flutter&logoColor=02569B" />
-</picture>
+<a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/html-202020?style=for-the-badge&logo=html5" />
+    <img alt="html badge" src="https://img.shields.io/badge/html-f0f0f0?style=for-the-badge&logo=html5" />
+  </picture>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/css-202020?style=for-the-badge&logo=css3&logoColor=489AE0" />
+    <img alt="css badge" src="https://img.shields.io/badge/css-f0f0f0?style=for-the-badge&logo=css3&logoColor=489AE0" />
+  </picture>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/javascript-202020?style=for-the-badge&logo=javascript" />
+    <img alt="javascript badge" src="https://img.shields.io/badge/javascript-f0f0f0?style=for-the-badge&logo=javascript" />
+  </picture>
+</a>
+<a href="https://www.typescriptlang.org/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/typescript-202020?style=for-the-badge&logo=typescript" />
+    <img alt="typescript badge" src="https://img.shields.io/badge/typescript-f0f0f0?style=for-the-badge&logo=typescript" />
+  </picture>
+</a>
+<a href="https://tailwindcss.com/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/tailwind_css-202020?style=for-the-badge&logo=tailwindcss" />
+    <img alt="tailwindcss badge" src="https://img.shields.io/badge/tailwind_css-f0f0f0?style=for-the-badge&logo=tailwindcss" />
+  </picture>
+</a>
+<a href="https://jestjs.io/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/jest-202020?style=for-the-badge&logo=jest&logoColor=C21325" />
+    <img alt="jest badge" src="https://img.shields.io/badge/jest-f0f0f0?style=for-the-badge&logo=jest&logoColor=C21325" />
+  </picture>
+</a>
+<a href="https://www.cypress.io/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/cypress-202020?style=for-the-badge&logo=cypress" />
+    <img alt="cypress badge" src="https://img.shields.io/badge/cypress-f0f0f0?style=for-the-badge&logo=cypress" />
+  </picture>
+</a>
+<a href="https://playwright.dev/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/playwright-202020?style=for-the-badge&logo=jest&logoColor=67B859" />
+    <img alt="jest badge" src="https://img.shields.io/badge/playwright-f0f0f0?style=for-the-badge&logo=jest&logoColor=67B859" />
+  </picture>
+</a>
+<a href="https://storybook.js.org/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/storybook-202020?style=for-the-badge&logo=storybook" />
+    <img alt="storybook badge" src="https://img.shields.io/badge/storybook-f0f0f0?style=for-the-badge&logo=storybook" />
+  </picture>
+</a>
+<a href="https://flutter.dev/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/flutter-202020?style=for-the-badge&logo=flutter&logoColor=02569B" />
+    <img alt="jest badge" src="https://img.shields.io/badge/flutter-f0f0f0?style=for-the-badge&logo=flutter&logoColor=02569B" />
+  </picture>
+</a>
 
 ### Runtimes
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/node.js-202020?style=for-the-badge&logo=node.js" />
-  <img alt="node.js badge" src="https://img.shields.io/badge/node.js-f0f0f0?style=for-the-badge&logo=node.js" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/deno-202020?style=for-the-badge&logo=deno" />
-  <img alt="deno badge" src="https://img.shields.io/badge/deno-f0f0f0?style=for-the-badge&logo=deno&logoColor=black" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/cloudflare_workers-202020?style=for-the-badge&logo=cloudflareworkers" />
-  <img alt="cloudflare workers badge" src="https://img.shields.io/badge/cloudflare_workers-f0f0f0?style=for-the-badge&logo=cloudflareworkers" />
-</picture>
+<a href="https://nodejs.org/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/node.js-202020?style=for-the-badge&logo=node.js" />
+    <img alt="node.js badge" src="https://img.shields.io/badge/node.js-f0f0f0?style=for-the-badge&logo=node.js" />
+  </picture>
+</a>
+<a href="https://deno.com/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/deno-202020?style=for-the-badge&logo=deno" />
+    <img alt="deno badge" src="https://img.shields.io/badge/deno-f0f0f0?style=for-the-badge&logo=deno&logoColor=black" />
+  </picture>
+</a>
+<a href="https://workers.cloudflare.com/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/cloudflare_workers-202020?style=for-the-badge&logo=cloudflareworkers" />
+    <img alt="cloudflare workers badge" src="https://img.shields.io/badge/cloudflare_workers-f0f0f0?style=for-the-badge&logo=cloudflareworkers" />
+  </picture>
+</a>
 
 ### Frameworks
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/angular-202020?style=for-the-badge&logo=angular&logoColor=d63b9e" />
-  <img alt="angular badge" src="https://img.shields.io/badge/angular-f0f0f0?style=for-the-badge&logo=angular&logoColor=d63b9e" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/react-202020?style=for-the-badge&logo=react" />
-  <img alt="react badge" src="https://img.shields.io/badge/react-f0f0f0?style=for-the-badge&logo=react" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/svelte-202020?style=for-the-badge&logo=svelte" />
-  <img alt="svelte badge" src="https://img.shields.io/badge/svelte-f0f0f0?style=for-the-badge&logo=svelte" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/ionic-202020?style=for-the-badge&logo=ionic" />
-  <img alt="ionic badge" src="https://img.shields.io/badge/ionic-f0f0f0?style=for-the-badge&logo=ionic" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/astro-202020?style=for-the-badge&logo=astro" />
-  <img alt="astro badge" src="https://img.shields.io/badge/astro-f0f0f0?style=for-the-badge&logo=astro" />
-</picture>
+<a href="https://angular.dev/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/angular-202020?style=for-the-badge&logo=angular&logoColor=d63b9e" />
+    <img alt="angular badge" src="https://img.shields.io/badge/angular-f0f0f0?style=for-the-badge&logo=angular&logoColor=d63b9e" />
+  </picture>
+</a>
+<a href="https://react.dev/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/react-202020?style=for-the-badge&logo=react" />
+    <img alt="react badge" src="https://img.shields.io/badge/react-f0f0f0?style=for-the-badge&logo=react" />
+  </picture>
+</a>
+<a href="https://svelte.dev/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/svelte-202020?style=for-the-badge&logo=svelte" />
+    <img alt="svelte badge" src="https://img.shields.io/badge/svelte-f0f0f0?style=for-the-badge&logo=svelte" />
+  </picture>
+</a>
+<a href="https://ionicframework.com/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/ionic-202020?style=for-the-badge&logo=ionic" />
+    <img alt="ionic badge" src="https://img.shields.io/badge/ionic-f0f0f0?style=for-the-badge&logo=ionic" />
+  </picture>
+</a>
+<a href="https://astro.build/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/astro-202020?style=for-the-badge&logo=astro" />
+    <img alt="astro badge" src="https://img.shields.io/badge/astro-f0f0f0?style=for-the-badge&logo=astro" />
+  </picture>
+</a>
 
 ### Tools
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/docker-202020?style=for-the-badge&logo=docker" />
-  <img alt="docker badge" src="https://img.shields.io/badge/docker-f0f0f0?style=for-the-badge&logo=docker" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/figma-202020?style=for-the-badge&logo=figma" />
-  <img alt="figma badge" src="https://img.shields.io/badge/figma-f0f0f0?style=for-the-badge&logo=figma" />
-</picture>
+<a href="https://www.docker.com/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/docker-202020?style=for-the-badge&logo=docker" />
+    <img alt="docker badge" src="https://img.shields.io/badge/docker-f0f0f0?style=for-the-badge&logo=docker" />
+  </picture>
+</a>
+<a href="https://www.figma.com/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/figma-202020?style=for-the-badge&logo=figma" />
+    <img alt="figma badge" src="https://img.shields.io/badge/figma-f0f0f0?style=for-the-badge&logo=figma" />
+  </picture>
+</a>
 
 ## Get in touch
 
