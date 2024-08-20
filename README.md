@@ -1,7 +1,9 @@
-<p>
-  <img src="./light-header.svg#gh-light-mode-only" width="40%" >
-  <img src="./dark-header.svg#gh-dark-mode-only" width="40%" >
-</p>
+<a href="https://jacobshuman.ca">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dark-header.svg" />
+    <img alt="header" src="./light-header.svg" width="40%" />
+  </picture>
+</a>
 
 [![portfolio badge](https://img.shields.io/badge/portfolio-3B87FF?style=for-the-badge&logo=amp&logoColor=white)](https://jacobshuman.ca)
 [![resume badge](https://img.shields.io/badge/resume-FC4C02?style=for-the-badge&logo=googledocs&logoColor=white)](https://jacobshuman.ca/resume.pdf)
