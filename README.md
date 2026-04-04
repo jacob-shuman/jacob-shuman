@@ -14,7 +14,6 @@
 > - :open_book: In love with FOSS software and working on open source projects.
 > - :calendar: **5+ years** of professional experience.
 > - :globe_with_meridians: **Web development** is my area of expertise.
-> - :briefcase: **Technical Manager** @ [Indigenous Friends Association](https://indigenousfriends.org).
 
 ### Languages/Libraries
 
